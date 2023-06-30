@@ -1,4 +1,4 @@
-# Testing user post/delete/edit
+# Testing user create/delete/edit/show
 ![127 0 0 1_8000_posts](https://github.com/Uncaught-TypeError/tailwind_small_project/assets/95492327/0794f0e2-3407-4f17-a649-98244cd7e324)
 ![FireShot Capture 009 - Laravel - 127 0 0 1](https://github.com/Uncaught-TypeError/tailwind_small_project/assets/95492327/94ca44fc-7b45-4ccd-af80-ad8ff3d2ca0c)
 
