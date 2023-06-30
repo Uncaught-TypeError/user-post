@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title-box{
+    /* background: lightblue; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.p-title{
+    /* background: red; */
+    padding: 10px;
+    width: 1100px;
+    display: flex;
+    justify-content: left;
+}
+
+.p-title h1{
+    font-size: 2.2rem;
+    text-transform: capitalize;
+    font-weight: 300;
+}
